@@ -8,4 +8,3 @@ The app is hosted [here](https://git.heroku.com/facerecognitionapp21.git) on her
 ## Built With
 * React - the javascript libary used
 * Clarifai - the face detection api
-* 
